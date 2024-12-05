@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.hs": "hlsl",
+        "type_traits": "cpp"
+    }
+}
